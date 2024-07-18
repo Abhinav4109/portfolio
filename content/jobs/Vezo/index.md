@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+title: 'Mobile Application Developer & Core Team Member'
+company: 'Vezo'
+location: 'Remote'
+range: 'June 2024 - Present'
 url: 'https://www.upstatement.com/'
 ---
 

@@ -31,6 +31,7 @@ const StyledTabList = styled.div`
   padding: 0;
   margin: 0;
   list-style: none;
+  margin-top: 140px;
 
   @media (max-width: 600px) {
     display: flex;
@@ -39,11 +40,14 @@ const StyledTabList = styled.div`
     padding-left: 50px;
     margin-left: -50px;
     margin-bottom: 30px;
+    margin-top: 0px;
+    padding-right: 50px
   }
   @media (max-width: 480px) {
     width: calc(100% + 50px);
     padding-left: 25px;
     margin-left: -25px;
+    margin-top: 0px;
   }
 
   li {

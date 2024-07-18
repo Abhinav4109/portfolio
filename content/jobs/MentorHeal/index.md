@@ -1,9 +1,9 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
+title: 'Mobile Application Developer & Founding Team Member'
+company: 'MentorHeal'
+location: 'Remote'
+range: 'February - June 2017'
 url: 'https://www.apple.com/music/'
 ---
 
